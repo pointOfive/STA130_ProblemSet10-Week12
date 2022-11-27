@@ -13,7 +13,7 @@ knitr::opts_chunk$set(eval=TRUE, include=TRUE, echo=TRUE, message=FALSE, warning
 
 # Instructions
 
-Complete the exercises in this .Rmd file and submit your .Rmd and .pdf output through [Quercus](https://q.utoronto.ca/courses/277998/assignments/910651) on Thursday, November 24th by 5:00 p.m. ET. 
+Complete the exercises in this .Rmd file and submit your .Rmd and .pdf output through [Quercus](https://q.utoronto.ca/courses/277998/assignments/910651) on Thursday, December 1st by 5:00 p.m. ET. 
 
 ## Part 1: Lumosity
 
@@ -128,6 +128,8 @@ The estimated p-value based on this randomization test is 0 so there is very str
 
 *(ii)* Produce an appropriate data summary to see if ages of the users differ for the Lumosity and crossword groups. Interpret your summary and comment on how this compares to your prediction about how ages would compare.   
 
+*REPLACE THIS TEXT WITH YOUR ANSWER*
+
 ```{r}
 # Code your answer below
 
@@ -146,6 +148,10 @@ You may complete these questions for practice if you wish.
 
 From Section 8.12 Problem 8 in "Modern Data Science with R Exercise, 2nd edition": A data analyst received permission to post a data set that was scraped from a social media site. The full data set included name, screen name, email address, geographic location, IP (internet protocol) address, demographic profiles, and preferences for relationships. Why might it be problematic to post a deidentified form of this data set where name and email address were removed?
 
+*REPLACE THIS TEXT WITH YOUR ANSWER*
+
 ### Question 3: 
 
 From Section 8.12 Problem 5 in "Modern Data Science with R Exercise, 2nd edition": A reporter carried out a clinical trial of chocolate where a small number of overweight subjects who had received medical clearance were randomized to either eat dark chocolate or not to eat dark chocolate. They were followed for a period and their change in weight was recorded from baseline until the end of the study. More than a dozen outcomes were recorded and one proved to be significantly different in the treatment group than the outcome. This study was publicized and received coverage from a number of magazines and television programs. Outline the ethical considerations that arise in this situation.
+
+*REPLACE THIS TEXT WITH YOUR ANSWER*
